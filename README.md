@@ -8,6 +8,7 @@ Apart from that I study computer science at 🎓 [TU Dresden](https://tu-dresden
 |-------------------------------------------------------------------------|-------------|-------|-------------|
 | ✅ [**ojs-codecheck**](https://github.com/codecheckers/ojs-codecheck)   | An [OJS](https://pkp.sfu.ca/software/ojs/) Plugin to streamline [codechecking](https://doi.org/10.12688/f1000research.51738.2) of scholarly submissions | Scholarly | Active Development |
 | 🗺️ [**mappapp**](https://github.com/dxL1nus/mapapp)                     | A [Flutter](https://flutter.dev/) based [Open Stret Map](https://www.openstreetmap.org/) smartphone navigation app  | Personal | Active Development |
+| 🏎️ **F1 Telemetry App**                     | A desktop application to view live race telemetry like the boxing window  | Personal | Not started |
 
 ## 📬 Contact
 Feel free to visit my [ORCID](https://orcid.org/0009-0000-0114-8005) for further information 🤙
