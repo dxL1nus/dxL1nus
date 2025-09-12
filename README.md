@@ -1,6 +1,7 @@
 # Hi👋
 My name is Linus!<br />
-I am a software developer for the [CHECK-PUB](https://codecheck.org.uk/pub/) team at [CODECHECK](https://codecheck.org.uk/)✅, working on the [ojs-codecheck](https://github.com/codecheckers/ojs-codecheck) plugin.
+I am a software developer for the [CHECK-PUB](https://codecheck.org.uk/pub/) team at [CODECHECK](https://codecheck.org.uk/)✅, working on the [ojs-codecheck](https://github.com/codecheckers/ojs-codecheck) plugin.<br />
+Apart from that I study computer science at 🎓 [TU Dresden](https://tu-dresden.de/)!
 
 ## ⚙️ Projects
 | Name                                                                    | Description | Type | Status             |
